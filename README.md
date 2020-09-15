@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="C#" title="C#" width="26px" src="https://github.com/emyl089/emyl089/blob/master/images/C_Sharp_logo.png?raw=true"/>
-<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="images/Visual_Studio_logo.png"/>
+<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://github.com/emyl089/emyl089/blob/master/images/Visual_Studio_logo.png?raw=true"/>
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
