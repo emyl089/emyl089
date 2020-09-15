@@ -21,6 +21,7 @@
 
 ### Languages and Tools:
 
+![C#](https://github.com/emyl089/emyl089/images/C_Sharp_logo.png?raw=true)
 <img align="left" alt="C#" title="C#" width="26px" src="images/C_Sharp_logo.png"/>
 <img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="images/Visual_Studio_logo.png"/>
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
