@@ -32,6 +32,10 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="Emil GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emyl089&show_icons=true&hide_border=true"/>
+
 [twitter]: https://twitter.com/PopescuEmil10
 [youtube]: https://youtube.com/ZadgBlue
 [instagram]: https://instagram.com/emillll96
