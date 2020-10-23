@@ -5,7 +5,7 @@
 ## I'm a Student and an Entry Level Developer
 
 - ⚙️ I’m currently working on a Chrome Extension
-- 📖 I’m currently learning everything 🤓
+- 📖 I’m currently learning Java 🤓
 - 🤝🏻 I’m looking to find an Intership or a Job
 - 🥅 2020 Goals: Learn more about HTML, CSS, JavaScript
 - ⚡ Fun fact: I love to draw, drive and party
