@@ -2,12 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PopescuEmil10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Femyl089&screen_name=PopescuEmil10)
 
-## I'm a Student and an Entry Level Developer
+## I'm an Entry Level Developer trying to learn as much as I can.
 
-- ⚙️ I’m currently working on a Chrome Extension
+- ⚙️ I’m currently working on a Java application
 - 📖 I’m currently learning Java 🤓
-- 🤝🏻 I’m looking to find an Intership or a Job
-- 🥅 2020 Goals: Learn more about HTML, CSS, JavaScript
+- 🤝🏻 I’m looking to find an application developer Job
+- 🥅 2021 Goals: Learn more about Java and Spring Framework
 - ⚡ Fun fact: I love to draw, drive and party
 
 ### Connect with me:
@@ -40,4 +40,4 @@
 [twitter]: https://twitter.com/PopescuEmil10
 [youtube]: https://youtube.com/ZadgBlue
 [instagram]: https://instagram.com/emillll96
-[linkedin]: https://linkedin.com/in/emil-popescu-916833156
+[linkedin]: https://www.linkedin.com/in/emanuel-popescu-916833156/
