@@ -5,8 +5,8 @@
 ## I'm an Entry Level Developer trying to learn as much as I can.
 
 - ⚙️ I’m currently working on a Java application
-- 📖 I’m currently learning Java 🤓
-- 🤝🏻 I’m looking to find an application developer Job
+- 📖 I’m learning Java as well as JavaScript 🤓
+- 🤝🏻 I’m looking to find an software developer Job
 - 🥅 2022 Goals: Learn more about Java and Spring Framework
 - ⚡ Fun fact: I love to draw, drive and party
 
