@@ -12,23 +12,24 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Emil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Emil| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Emil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Emil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Emil | LinkedIn" width="24px" src="https://github.com/emyl089/emyl089/blob/master/images/linkedin-logo.png?raw=true" />][linkedin]
+[<img align="left" alt="Emil | Instagram" width="24px" src="https://github.com/emyl089/emyl089/blob/master/images/instagram-logo.png?raw=true" />][instagram]
+[<img align="left" alt="Emil | Twitter" width="24px" src="https://github.com/emyl089/emyl089/blob/master/images/twitter-logo.png?raw=true" />][twitter]
+[<img align="left" alt="Emil | YouTube" width="24px" src="https://github.com/emyl089/emyl089/blob/master/images/youtube-logo.png?raw=true" />][youtube]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="C#" title="C#" width="26px" src="https://github.com/emyl089/emyl089/blob/master/images/C_Sharp_logo.png?raw=true"/>
-<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://github.com/emyl089/emyl089/blob/master/images/Visual_Studio_logo.png?raw=true"/>
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Unity" title="Unity" width="26px" src=https://github.com/emyl089/emyl089/blob/master/images/Unity_logo.png?raw=true" />
+<img align="left" alt="Java" title="Java" width="24px" src="https://github.com/emyl089/emyl089/blob/master/images/java-logo.png?raw=true" />
+<img align="left" alt="C#" title="C#" width="24px" src="https://github.com/emyl089/emyl089/blob/master/images/C_Sharp_logo.png?raw=true"/>
+<img align="left" alt="Visual Studio" title="Visual Studio" width="24px" src="https://github.com/emyl089/emyl089/blob/master/images/Visual_Studio_logo.png?raw=true"/>
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" title="HTML5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" title="CSS3" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" title="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="MySQL" title="MySQL" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Unity" title="Unity" width="24px" src="https://github.com/emyl089/emyl089/blob/master/images/Unity_logo.png?raw=true" />
 
 <br />
 <br />
