@@ -7,7 +7,7 @@
 - ⚙️ I’m currently working on a Java application
 - 📖 I’m learning Java as well as JavaScript 🤓
 - 🤝🏻 I’m looking to find an software developer Job
-- 🥅 2022 Goals: Learn more about Java and Spring Framework
+- 🥅 2023 Goals: Learn more about Java and Spring Framework
 - ⚡ Fun fact: I love to draw, drive and party
 
 ### Connect with me:
